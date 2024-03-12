@@ -1,0 +1,17 @@
+Please include the following details:
+a. The title of your site and a link to the URL where it is deployed : capstone https://github.com/lalaycorea/capstone
+b. Describe what your website does it gives cat facts with the api and has a login screen for users
+c. List the features you implemented and explain why you chose those
+features to implement 
+d. Where your tests are and how to run them
+e. Walk someone through the standard user flow for the website, : signing in then leads you to about page for apis facts.
+f. Keep the API in there, and if you have anything to say about the API then
+add some notes. If you have created your own API, please document the
+process.
+g. Identify the technology stack used to create your website
+h. Include anything else that you feel is important to share
+3. Include your README on your GitHub repository.
+4. Take a minute to review your GitHub repository. Is everything there? Is it neatly
+organized?
+5. Submit your full and final project to your mentor.
+6. Discuss it with them on your next call.
